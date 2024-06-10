@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_2" data-name="Group 2" transform="translate(-1250 -59)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(1250 59)" fill="#a9dffd"/>
+    <g id="vuesax_linear_buliding" data-name="vuesax/linear/buliding" transform="translate(571 -124)">
+      <g id="buliding" transform="translate(684 188)">
+        <path id="Vector" d="M0,0H17.442" transform="translate(1.779 19.221)" fill="#019ef6" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-2" data-name="Vector" d="M12.182,0h-8.7C.87,0,0,1.561,0,3.488V17.442H15.663V3.488C15.663,1.561,14.792,0,12.182,0Z" transform="translate(2.669 1.779)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H2.669" transform="translate(6.11 14.438)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H2.669" transform="translate(12.221 14.438)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H2.669" transform="translate(6.11 10.5)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-6" data-name="Vector" d="M0,0H2.669" transform="translate(12.221 10.5)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-7" data-name="Vector" d="M0,0H2.669" transform="translate(6.11 6.563)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-8" data-name="Vector" d="M0,0H2.669" transform="translate(12.221 6.563)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-9" data-name="Vector" d="M0,0H21V21H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_2" data-name="Group 2" transform="translate(-1250 -59)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(1250 59)" fill="#a9dffd"/>
+    <g id="vuesax_linear_picture-frame" data-name="vuesax/linear/picture-frame" transform="translate(1018.25 -252.75)">
+      <g id="picture-frame" transform="translate(236 316)">
+        <path id="Vector" d="M6.1,17.417h5.225c4.354,0,6.1-1.742,6.1-6.1V6.1c0-4.354-1.742-6.1-6.1-6.1H6.1C1.742,0,0,1.742,0,6.1v5.225C0,15.675,1.742,17.417,6.1,17.417Z" transform="translate(1.792 1.792)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0,4.434,17.417" transform="translate(7.826 1.792)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-3" data-name="Vector" d="M8.537,0,0,2.49" transform="translate(1.792 10.659)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H21V21H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

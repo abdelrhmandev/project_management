@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_2" data-name="Group 2" transform="translate(-1250 -59)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(1250 59)" fill="#a9dffd"/>
+    <g id="vuesax_linear_convert-3d-cube" data-name="vuesax/linear/convert-3d-cube" transform="translate(1018.5 -124.5)">
+      <g id="convert-3d-cube" transform="translate(236 188)">
+        <g id="Group" transform="translate(1.8 1.8)">
+          <path id="Vector" d="M6.3,0A6.3,6.3,0,0,1,0,6.3L.945,4.726" transform="translate(11.098 11.098)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Vector-2" data-name="Vector" d="M0,6.3A6.3,6.3,0,0,1,6.3,0L5.356,1.575" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group-2" data-name="Group" transform="translate(11.413 1.8)">
+          <g id="Group-3" data-name="Group" transform="translate(0.315 2.205)">
+            <path id="Vector-3" data-name="Vector" d="M0,0,3.583,2.07,7.129.009" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <path id="Vector-4" data-name="Vector" d="M0,3.673V0" transform="translate(3.583 2.061)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <path id="Vector-5" data-name="Vector" d="M3.052.189l-2.16,1.2A1.924,1.924,0,0,0,0,2.9V5.185A1.9,1.9,0,0,0,.891,6.7l2.16,1.2a1.907,1.907,0,0,0,1.683,0L6.9,6.7a1.924,1.924,0,0,0,.891-1.512V2.9A1.9,1.9,0,0,0,6.9,1.386L4.735.189A1.968,1.968,0,0,0,3.052.189Z" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group-4" data-name="Group" transform="translate(1.8 11.098)">
+          <g id="Group-5" data-name="Group" transform="translate(0.315 2.205)">
+            <path id="Vector-6" data-name="Vector" d="M0,0,3.574,2.07,7.129.009" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <path id="Vector-7" data-name="Vector" d="M0,3.673V0" transform="translate(3.574 2.061)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <path id="Vector-8" data-name="Vector" d="M3.052.189l-2.16,1.2A1.924,1.924,0,0,0,0,2.9V5.185A1.9,1.9,0,0,0,.891,6.7l2.16,1.2a1.907,1.907,0,0,0,1.683,0L6.9,6.7a1.924,1.924,0,0,0,.891-1.512V2.9A1.9,1.9,0,0,0,6.9,1.386L4.735.189A1.968,1.968,0,0,0,3.052.189Z" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <path id="Vector-9" data-name="Vector" d="M0,0H21V21H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

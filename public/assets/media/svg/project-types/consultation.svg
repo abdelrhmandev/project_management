@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_2" data-name="Group 2" transform="translate(-1250 -59)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(1250 59)" fill="#a9dffd"/>
+    <g id="vuesax_linear_bubble" data-name="vuesax/linear/bubble" transform="translate(1082 -572)">
+      <g id="bubble" transform="translate(172 636)">
+        <path id="Vector" d="M8.978,4.489A4.489,4.489,0,1,1,4.489,0,4.489,4.489,0,0,1,8.978,4.489Z" transform="translate(9.152 1.75)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Vector-2" data-name="Vector" d="M5.39,2.7A2.7,2.7,0,1,1,2.695,0,2.7,2.7,0,0,1,5.39,2.7Z" transform="translate(2.87 11.62)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Vector-3" data-name="Vector" d="M4.48,2.24A2.24,2.24,0,1,1,2.24,0,2.24,2.24,0,0,1,4.48,2.24Z" transform="translate(12.302 14.77)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H21V21H0Z" fill="none" opacity="0"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H21V21H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

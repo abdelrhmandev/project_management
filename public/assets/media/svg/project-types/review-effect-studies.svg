@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_2" data-name="Group 2" transform="translate(-1250 -59)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(1250 59)" fill="#a9dffd"/>
+    <g id="vuesax_linear_notification-status" data-name="vuesax/linear/notification-status" transform="translate(895 -124)">
+      <g id="notification-status" transform="translate(360 188)">
+        <path id="Vector" d="M5.25,2.625A2.625,2.625,0,1,1,2.625,0,2.625,2.625,0,0,1,5.25,2.625Z" transform="translate(14 1.75)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H4.375" transform="translate(6.125 11.375)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H7.875" transform="translate(6.125 14.875)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-4" data-name="Vector" d="M10.5,0H6.125C1.75,0,0,1.75,0,6.125v5.25C0,15.75,1.75,17.5,6.125,17.5h5.25c4.375,0,6.125-1.75,6.125-6.125V7" transform="translate(1.75 1.75)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H21V21H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

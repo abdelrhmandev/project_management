@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.922" height="62.333" viewBox="0 0 70.922 62.333">
+  <g id="svgexport-18" transform="translate(0 -31)">
+    <g id="Group_1409" data-name="Group 1409" transform="translate(2.078 33.078)">
+      <path id="Path_1918" data-name="Path 1918" d="M15,95.867v8.311H81.766V95.867H15ZM48.383,46H15v8.311H81.766V46Z" transform="translate(-15 -46)" fill="#dfe7f4"/>
+    </g>
+    <path id="Path_1919" data-name="Path 1919" d="M256,46h33.383v8.311H256Zm0,49.867h33.383v8.311H256Z" transform="translate(-220.539 -12.922)" fill="#c7cfe1"/>
+    <path id="Path_1920" data-name="Path 1920" d="M61.305,106H30v41.556H92.61V106Z" transform="translate(-25.844 -64.611)" fill="#434365"/>
+    <path id="Path_1921" data-name="Path 1921" d="M256,106h31.305v41.556H256Z" transform="translate(-220.539 -64.611)" fill="#343449"/>
+    <g id="Group_1410" data-name="Group 1410" transform="translate(0 31)">
+      <path id="Path_1922" data-name="Path 1922" d="M0,80.867V93.333H70.922V80.867H0Zm11.22,8.311H4.156V85.022H11.22Zm11.081,0H15.376V85.022H22.3Zm11.081,0H26.457V85.022h6.926ZM59.7,85.022h7.064v4.156H59.7Zm-11.081,0h6.926v4.156H48.62Zm-11.081,0h6.926v4.156H37.539ZM35.461,31H0V43.467H70.922V31ZM11.22,39.311H4.156V35.156H11.22Zm11.081,0H15.376V35.156H22.3Zm11.081,0H26.457V35.156h6.926Zm11.081,0H37.539V35.156h6.926Zm11.082,0H48.62V35.156h6.926Zm11.22,0H59.688V35.156h7.078Z" transform="translate(0 -31)" fill="#404a80"/>
+    </g>
+    <g id="Group_1411" data-name="Group 1411" transform="translate(35.461 31)">
+      <path id="Path_1923" data-name="Path 1923" d="M265,39.311h-6.926V35.156H265Zm11.082,0h-6.926V35.156h6.926ZM256,31V43.467h35.461V31Zm31.305,8.311h-7.078V35.156h7.078Zm4.156,41.556H256V93.333h35.461ZM265,89.178h-6.926V85.022H265Zm11.082,0h-6.926V85.022h6.926Zm11.22,0h-7.064V85.022h7.064Z" transform="translate(-256 -31)" fill="#283366"/>
+    </g>
+    <path id="Path_1924" data-name="Path 1924" d="M217.233,172.133,211,167.978v24.385l6.233-4.155,12.057-8.037Z" transform="translate(-181.773 -118.004)" fill="#f0f7ff"/>
+    <path id="Path_1925" data-name="Path 1925" d="M256,197.976v16.075l12.057-8.037Z" transform="translate(-220.539 -143.847)" fill="#dfe7f4"/>
+  </g>
+</svg>

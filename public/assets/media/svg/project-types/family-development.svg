@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_8" data-name="Path 8" d="M0-682.665H21.212v21.212H0Z" transform="translate(0 682.665)" fill="#019ef6"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-1250 -59)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(1250 59)" fill="#a9dffd"/>
+    <g id="svgexport-7_3_" data-name="svgexport-7 (3)" transform="translate(1254.242 67.788)">
+      <g id="Group_1" data-name="Group 1" clip-path="url(#clip-path)">
+        <path id="Path_1" data-name="Path 1" d="M-276.162-113.952c.246-.726,1.42-3.654,4.352-3.654a4.52,4.52,0,0,1,4.4,4.779c0,3-2.238,4.956-7.781,9.755a1.371,1.371,0,0,1-1.78,0c-4.749-4.04-8.05-6.383-8.05-9.76a4.52,4.52,0,0,1,4.4-4.779c2.931,0,4.106,2.929,4.352,3.654" transform="translate(286.819 123.333)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Path_2" data-name="Path 2" d="M-116.271-59.427a1.864,1.864,0,0,1-1.864,1.864A1.864,1.864,0,0,1-120-59.427a1.9,1.9,0,0,1,1.864-1.906A1.9,1.9,0,0,1-116.271-59.427Z" transform="translate(123.148 61.955)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Path_3" data-name="Path 3" d="M-116.271-58.136a1.864,1.864,0,0,1-1.864,1.864A1.864,1.864,0,0,1-120-58.136,1.864,1.864,0,0,1-118.135-60,1.864,1.864,0,0,1-116.271-58.136Z" transform="translate(128.741 69.363)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Path_4" data-name="Path 4" d="M-116.271-59.427a1.864,1.864,0,0,1-1.864,1.864A1.864,1.864,0,0,1-120-59.427a1.9,1.9,0,0,1,1.864-1.906A1.9,1.9,0,0,1-116.271-59.427Z" transform="translate(134.334 61.955)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Path_5" data-name="Path 5" d="M0,0C0,1.378,1.2,2.738,3.522,4.759A1.244,1.244,0,1,1,1.886,6.634l-.021-.019" transform="translate(4.287 10.482)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Path_6" data-name="Path 6" d="M0-27.474a4.948,4.948,0,0,1,2.826-.881,4.949,4.949,0,0,1,2.9.93" transform="translate(7.78 42.689)" fill="none" stroke="#019ef6" stroke-width="1"/>
+        <path id="Path_7" data-name="Path 7" d="M-64.314-208.5l0,.007.021-.019a1.253,1.253,0,0,1-1.726-.034,1.251,1.251,0,0,1,.051-1.806c2.58-2.344,3.481-3.531,3.481-4.835" transform="translate(79.409 225.673)" fill="none" stroke="#019ef6" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

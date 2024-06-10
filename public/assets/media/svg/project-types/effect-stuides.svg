@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_2" data-name="Group 2" transform="translate(-1250 -59)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(1250 59)" fill="#a9dffd"/>
+    <g id="vuesax_linear_book" data-name="vuesax/linear/book" transform="translate(762.5 -124.5)">
+      <g id="book" transform="translate(492 188)">
+        <path id="Vector" d="M0,14.354V4.485C0,.9.866,0,4.33,0h6.061c3.464,0,4.33.9,4.33,4.485v8.971c0,.126,0,.251-.009.377" transform="translate(3.14 1.794)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-2" data-name="Vector" d="M2.468,0H14.72V3.14A3.09,3.09,0,0,1,11.69,6.28H3.031A3.09,3.09,0,0,1,0,3.14V2.557A2.518,2.518,0,0,1,2.468,0Z" transform="translate(3.14 12.926)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H7.177" transform="translate(6.912 6.125)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H4.485" transform="translate(6.953 9.188)" fill="none" stroke="#019ef6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H21V21H0Z" transform="translate(21 21) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
